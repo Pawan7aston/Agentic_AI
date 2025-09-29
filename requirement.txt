@@ -2,3 +2,6 @@ langchain
 langgraph
 langchain-core
 langchain-community
+arxiv
+wikipedia
+langchain-groq
