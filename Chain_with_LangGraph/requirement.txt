@@ -5,3 +5,13 @@ langchain-community
 arxiv
 wikipedia
 langchain-groq
+
+streamlit
+langchain
+langchain-community
+langchain-groq
+langgraph
+tavily-python
+python-dotenv
+ipython
+pillow  # For Image display in IPython
